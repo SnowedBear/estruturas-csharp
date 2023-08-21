@@ -1,0 +1,15 @@
+/workspace/estruturas-csharp/bin/Debug/net7.0/estruturas-csharp
+/workspace/estruturas-csharp/bin/Debug/net7.0/estruturas-csharp.deps.json
+/workspace/estruturas-csharp/bin/Debug/net7.0/estruturas-csharp.runtimeconfig.json
+/workspace/estruturas-csharp/bin/Debug/net7.0/estruturas-csharp.dll
+/workspace/estruturas-csharp/bin/Debug/net7.0/estruturas-csharp.pdb
+/workspace/estruturas-csharp/obj/Debug/net7.0/estruturas-csharp.csproj.AssemblyReference.cache
+/workspace/estruturas-csharp/obj/Debug/net7.0/estruturas-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/estruturas-csharp/obj/Debug/net7.0/estruturas-csharp.AssemblyInfoInputs.cache
+/workspace/estruturas-csharp/obj/Debug/net7.0/estruturas-csharp.AssemblyInfo.cs
+/workspace/estruturas-csharp/obj/Debug/net7.0/estruturas-csharp.csproj.CoreCompileInputs.cache
+/workspace/estruturas-csharp/obj/Debug/net7.0/estruturas-csharp.dll
+/workspace/estruturas-csharp/obj/Debug/net7.0/refint/estruturas-csharp.dll
+/workspace/estruturas-csharp/obj/Debug/net7.0/estruturas-csharp.pdb
+/workspace/estruturas-csharp/obj/Debug/net7.0/estruturas-csharp.genruntimeconfig.cache
+/workspace/estruturas-csharp/obj/Debug/net7.0/ref/estruturas-csharp.dll
